@@ -10,7 +10,7 @@
   "author": "me@matthewtyler.io",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.603.0",
+    "aws-sdk": "^2.814.0",
     "press-any-key": "^0.1.1"
   }
 }
